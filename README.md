@@ -6,7 +6,7 @@
 
 ### Overview
 
-Timer app made using Bash scripting and a Docker container to install it's dependencies.
+Timer app made using Bash scripting and a Docker container to install it's dependencies. Practice only.
 
 ### Dependencies
 

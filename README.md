@@ -14,5 +14,9 @@ Timer app made using Bash scripting and a Docker container to install it's depen
 * xterm (not yet included I forgot) to run the timer in a graphical setting
 * Other dependencies
 
+### To Include in the Future
+
+* Display current time along with the timer
+* Attach on the background with a less visible format
 
 
